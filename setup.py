@@ -24,6 +24,4 @@ author='Akshaya Brian Tauro',
 author_email = 'akshayabriantauro@gmail.com',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')
-
-
 )
